@@ -36,3 +36,9 @@ tags:
 |     vanilla     |              原版               |
 |      void       |           空（void）            |
 |      long       |             长整型              |
+
+---
+
+由[SUIBING112233](https://github.com/SUIBING112233)编写
+
+最后的修改时间为`2021-7-25 1:04` by [SUIBING112233](https://github.com/SUIBING112233)
