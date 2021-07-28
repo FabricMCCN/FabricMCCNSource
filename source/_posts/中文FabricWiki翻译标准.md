@@ -30,6 +30,7 @@ tags:
 |    function     |     功能/功能型（function）     |
 |    interface    |              接口               |
 |   int/integer   |              整型               |
+|     invoker     |        调用器（invoker）        |
 |       if        |              如果               |
 |    override     |        重写（override）         |
 |    overload     |        重载（overload）         |
