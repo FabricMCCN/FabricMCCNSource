@@ -22,17 +22,22 @@ tags:
 | Access Wideners | 访问权限拓宽（Access Wideners） |
 |  bool/boolean   |             布尔型              |
 |      char       |            字符类型             |
+|    consumer     |    消费者/消费型（consumer）    |
 |     double      |           双精度浮点            |
 |     extend      |         继承（extend）          |
 |      float      |           单精度浮点            |
 |       for       |             for语句             |
+|    function     |     功能/功能型（function）     |
 |    interface    |              接口               |
 |   int/integer   |              整型               |
+|     invoker     |        调用器（invoker）        |
 |       if        |              如果               |
 |    override     |        重写（override）         |
 |    overload     |        重载（overload）         |
+|    predicate    |       谓词型（predicate）       |
 |     static      |         静态（static）          |
 |      super      |              父类               |
+|    supplier     |    供给者/供给型（supplier）    |
 |     vanilla     |              原版               |
 |      void       |           空（void）            |
 |      long       |             长整型              |
@@ -41,4 +46,4 @@ tags:
 
 由[SUIBING112233](https://github.com/SUIBING112233)编写
 
-最后的修改时间为`2021-7-25 1:04` by [SUIBING112233](https://github.com/SUIBING112233)
+最后的修改时间为`2021-7-25 17:38` by [SUIBING112233](https://github.com/SUIBING112233)
